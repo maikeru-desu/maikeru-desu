@@ -49,8 +49,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelgelvez&show_icons=true&theme=orange" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgelvez&layout=compact&theme=orange" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maikeru-desu&show_icons=true&theme=orange" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikeru-desu&layout=compact&theme=orange" width="380" />
 </p>
 
 ---
