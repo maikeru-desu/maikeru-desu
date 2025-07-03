@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Michael 👋</h1>
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](http://maikeru-desu.quest/github-image/pc.gif)" width="300" />
+  <img src="http://maikeru-desu.quest/github-image/pc.gif" width="300" />
 </p>
 
 <h3 align="center">🚀 Full Stack Web Developer | Laravel • React • Vue • Tailwind • PHP</h3>
