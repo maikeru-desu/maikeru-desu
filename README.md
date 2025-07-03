@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<h3 align="center">🚀 Full Stack Web Developer | PHP • JS • Vue • Laravel • Tailwind</h3>
+<h3 align="center">🚀 Full Stack Web Developer | Laravel • Vue • Tailwind • PHP • JS</h3>
 
 <p align="center">
   <a href="https://www.maikeru-desu.quest/" target="_blank">🌐 Portfolio</a> •
@@ -13,36 +13,16 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 🧠 Self-motivated, organized, and dependable web developer  
-- 👨‍💻 5+ years of experience in backend and frontend development  
-- 💬 Passionate about clean code, UI/UX, and performance  
-- 💼 Currently working as Full Stack Web Developer at **Xurpas Enterprise Inc.**
+### 👨‍💻 About Me
+
+🎯 I’m a self-motivated, organized, and dependable Full Stack Web Developer.  
+💡 I love building optimized websites, solving problems, and writing clean, reusable code.  
+🧠 I enjoy working with both backend and frontend stacks — especially with Laravel, Vue.js, and Tailwind.  
+📈 Always learning and improving to deliver meaningful, scalable products.
 
 ---
 
-### 💼 Work Experience
-
-**Full Stack Web Developer**  
-`Xurpas Enterprise Inc.` (Oct 2021 - Present)  
-- Backend API & frontend dev  
-- Server management  
-- Code standards & optimization
-
-**Mid Web Developer**  
-`Straight Login Inc.` (June 2020 - Oct 2021)  
-- Led team & made architecture decisions  
-- Cross-framework coding
-
-**Jr. Laravel Developer**  
-`Commude Philippines, Inc.` (Apr 2019 - Apr 2020)
-
-**Backend Developer (Intern)**  
-`PADTECH Industries Corp.` (Nov 2018 - Mar 2019)
-
----
-
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 #### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,23 +32,17 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-#### 🖥️ Backend
+#### 🔧 Backend
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=for-the-badge&logo=laravel)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
 
-#### 🧰 Tools
+#### ⚙️ Tools & OS
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-### 🎓 Education
-
-**🎓 Polytechnic University of the Philippines**  
-Bachelor’s Degree (2015 - 2019)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
@@ -81,7 +55,7 @@ Bachelor’s Degree (2015 - 2019)
 
 ---
 
-### ✉️ Let's Connect!
+### ✨ Let's Connect
 
 <p align="center">
   <a href="https://www.maikeru-desu.quest/"><img src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=Firefox&logoColor=white" /></a>
