@@ -3,13 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<h3 align="center">🚀 Full Stack Web Developer | Laravel • Vue • Tailwind • PHP • JS</h3>
-
-<p align="center">
-  <a href="https://www.maikeru-desu.quest/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/michaelgelvez/" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/maikeru_dev" target="_blank">Twitter</a>
-</p>
+<h3 align="center">🚀 Full Stack Web Developer | Laravel • React • Vue • Tailwind • PHP</h3>
 
 ---
 
@@ -49,7 +43,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maikeru-desu&show_icons=true&theme=orange" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maikeru-desu&show_icons=true&theme=gruvbox" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikeru-desu&layout=compact&theme=orange" width="380" />
 </p>
 
