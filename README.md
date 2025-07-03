@@ -47,6 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikeru-desu&layout=compact&theme=orange" width="380" />
 
   ![maikeru-desu's Stats](https://github-readme-stats.vercel.app/api?username=maikeru-desu&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+  <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=maikeru-desu&amp;theme=gruvbox&amp;hide_border=true" alt="github streak">
 </p>
 
 ---
