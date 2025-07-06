@@ -12,7 +12,7 @@
 
 🎯 I’m a self-motivated, organized, and dependable Full Stack Web Developer.  
 💡 I love building optimized websites, solving problems, and writing clean, reusable code.  
-🧠 I enjoy working with both backend and frontend stacks — especially with Laravel, Vue.js, and Tailwind.  
+🧠 I enjoy working with both backend and frontend stacks — especially with Laravel, React Js, Vue Js, and Tailwind.  
 📈 Always learning and improving to deliver meaningful, scalable products.
 
 ---
