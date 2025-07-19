@@ -23,16 +23,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,vue,tailwind&perline=6)](https://skillicons.dev)
 
 #### 🔧 Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=for-the-badge&logo=laravel)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,laravel,express&perline=4)](https://skillicons.dev)
 
 #### ⚙️ Tools & OS
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,windows,linux&perline=4)](https://skillicons.dev)
 
 ---
 
