@@ -39,7 +39,6 @@ I’m a self-motivated, organized, and dependable Full Stack Web Developer who l
   <img src="https://www.maikeru-desu.quest/assets/img/main-logo-white.png" width="150">
 </p>
 <p align="center">
-  <h3>Let's Connect</h3>
   <a href="https://linkedin.com/in/michaelgelvez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/maikeru_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:gelvezmichael@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white" /></a>
