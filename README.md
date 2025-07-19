@@ -19,13 +19,13 @@
 
 ### 🧰 Tech Stack
 
-#### 💻 Frontend
+#### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,vue,tailwind&perline=6)](https://skillicons.dev)
 
-#### 🔧 Backend
+#### Backend
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,laravel,express&perline=4)](https://skillicons.dev)
 
-#### ⚙️ Tools & OS
+#### Tools & OS
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,windows,linux&perline=4)](https://skillicons.dev)
 
 ---
