@@ -8,13 +8,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I’m a self-motivated, organized, and dependable Full Stack Web Developer who loves building optimized websites, solving problems, and writing clean, reusable code. I enjoy working across both backend and frontend stacks, particularly with Laravel, React.js, Vue.js, and Tailwind. I’m always learning and improving to deliver meaningful, scalable products.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 #### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,vue,tailwind&perline=6)](https://skillicons.dev)
@@ -27,7 +27,7 @@ I’m a self-motivated, organized, and dependable Full Stack Web Developer who l
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img class="output" src="https://github-readme-stats.vercel.app/api?username=maikeru-desu&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="github stat" width="400">
