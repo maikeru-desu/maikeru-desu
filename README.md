@@ -3,7 +3,7 @@
   <img src="https://www.maikeru-desu.quest/assets/img/head.png" width="230"/>
 </p>
 
-<h3 align="center">🚀 Full Stack Web Developer | Laravel • React • Vue • Tailwind • PHP</h3>
+<h3 align="center">Full Stack Web Developer | Laravel • React • Vue • Tailwind • PHP</h3>
 <p align="center"><a href="https://www.maikeru-desu.quest/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Firefox&logoColor=white" /></a></p>
 
 ---
