@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Michael 👋</h1>
 <p align="center">
-  <img src="https://www.maikeru-desu.quest/assets/img/main-intro-tree-mobile.jpg" width="300" style="border-radius: 25%"/>
+  <img src="https://www.maikeru-desu.quest/assets/img/head.png" width="300"/>
 </p>
 
 <h3 align="center">🚀 Full Stack Web Developer | Laravel • React • Vue • Tailwind • PHP</h3>
