@@ -7,7 +7,6 @@
 <p align="center"><a href="https://www.maikeru-desu.quest/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Firefox&logoColor=white" /></a></p>
 
 <img src="https://www.maikeru-desu.quest/assets/img/main-intro-grass.png"/>
----
 
 ### About Me
 
