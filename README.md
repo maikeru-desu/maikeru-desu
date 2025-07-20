@@ -41,7 +41,7 @@ I’m a self-motivated, organized, and dependable Full Stack Web Developer who l
 </p>
 
 <p align="center">
-  <span>Maybe I am the Sun the You are looking for.</span>
+  <span>Maybe I am the Sun that You are looking for.</span>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/michaelgelvez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
