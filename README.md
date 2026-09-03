@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Michael 👋</h1>
 <p align="center">
-  <img src="https://www.maikeru-desu.quest/assets/img/head.png" width="230"/>
+  <img src="https://www.maikeru-desu.dev/assets/img/head.png" width="230"/>
 </p>
 
 <h3 align="center">Full Stack Web Developer | Laravel • React • Vue • Tailwind • PHP</h3>
-<p align="center"><a href="https://www.maikeru-desu.quest/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Firefox&logoColor=white" /></a></p>
+<p align="center"><a href="https://www.maikeru-desu.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Firefox&logoColor=white" /></a></p>
 
 ---
 
@@ -37,7 +37,7 @@ I’m a self-motivated, organized, and dependable Full Stack Web Developer who l
 ---
 
 <p align="center">
-  <img src="https://www.maikeru-desu.quest/assets/img/main-logo-white.png" width="150">
+  <img src="https://www.maikeru-desu.dev/assets/img/main-logo-white.png" width="150">
 </p>
 
 <p align="center">
