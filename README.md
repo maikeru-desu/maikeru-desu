@@ -30,7 +30,6 @@ I’m a self-motivated, organized, and dependable Full Stack Web Developer who l
 ### GitHub Stats
 
 <p align="center">
-  <img class="output" src="https://github-readme-stats.vercel.app/api?username=maikeru-desu&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="github stat" width="400">
   <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=maikeru-desu&amp;theme=gruvbox&amp;hide_border=true" alt="github streak" width="400">
 </p>
 
